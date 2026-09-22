@@ -118,6 +118,14 @@ This project demonstrates practical experience with:
 
 
 
+<p align="center">
+
+&#x20; <img src="assets/rag-architecture.png" alt="Production RAG Knowledge Assistant Architecture" width="900"/>
+
+</p>
+
+
+
 ```text
 
 &#x20;                        ┌──────────────────────┐
