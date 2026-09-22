@@ -1018,6 +1018,16 @@ http://localhost:8000/docs
 
 ```
 
+\### 📸 Swagger API Documentation
+
+
+
+<p align="center">
+
+&#x20; <img src="assets/swagger-ui.png" alt="FastAPI Swagger UI" width="900"/>
+
+</p>
+
 
 
 \---
