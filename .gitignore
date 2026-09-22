@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Chroma vector database
+chroma_db/
+
+# Private sample documents
+data/sample/*.pdf

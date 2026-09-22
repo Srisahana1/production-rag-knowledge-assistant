@@ -1,0 +1,41 @@
+[
+  {
+    "question": "What experience does Sahana have with RAG?",
+    "expected_keywords": [
+      "Retrieval-Augmented Generation",
+      "RAG",
+      "contextual search",
+      "question-answering"
+    ]
+  },
+  {
+    "question": "What programming languages does Sahana have experience with?",
+    "expected_keywords": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "question": "What cloud platform has Sahana worked with for AI and machine learning?",
+    "expected_keywords": [
+      "Microsoft Azure",
+      "Azure Machine Learning"
+    ]
+  },
+  {
+    "question": "What Python frameworks has Sahana used for APIs and backend development?",
+    "expected_keywords": [
+      "Django",
+      "Flask",
+      "FastAPI"
+    ]
+  },
+  {
+    "question": "What data processing technologies has Sahana used?",
+    "expected_keywords": [
+      "Pandas",
+      "NumPy",
+      "PySpark"
+    ]
+  }
+]
